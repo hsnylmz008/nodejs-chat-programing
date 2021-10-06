@@ -1,0 +1,30 @@
+{
+  "name": "chatprograming",
+  "version": "1.0.2",
+  "description": "Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "birolemekli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.3",
+    "mongodb": "^2.2.30"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsnylmz008/nodejs-chat-programing.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/hsnylmz008/nodejs-chat-programing/issues"
+  },
+  "homepage": "https://github.com/hsnylmz008/nodejs-chat-programing#readme"
+}
